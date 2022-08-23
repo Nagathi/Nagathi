@@ -1,7 +1,6 @@
 ### Hi there, i'm Gustavo👋
 
 - 🔭 I'm graduating at Computer Engineering.
-- 🌱 I'm 20 years old.
 - 👯 I’m looking for learning new things.
 
 <div align="center">
